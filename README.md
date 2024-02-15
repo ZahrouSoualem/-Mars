@@ -6,6 +6,11 @@ I am going to do fetch command.
 I made changes in remote repo 2
 I made changes in local repo
 
+another changes
+
 new line of code
+
+another changes remote
+
 
 next
