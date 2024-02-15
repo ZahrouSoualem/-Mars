@@ -4,11 +4,10 @@ This repository is just to learn advanced Git commands.
 I am going to do fetch command.
 
 <<<<<<< HEAD
-
-I also made a changes in remote repo 
-=======
 I made changes in local repo
->>>>>>> cb8ab98 (changes in local repo)
+=======
+I made changes in remote repo 2
+>>>>>>> 7e96fe209d9beb8fe5dc73e37ab6b0785f9f3ffc
 
 new line of code
 
