@@ -1,0 +1,15 @@
+# -Mars
+This repository is just to learn advanced Git commands. 
+
+I am going to do fetch command.
+
+<<<<<<< HEAD
+
+I also made a changes in remote repo 
+=======
+I made changes in local repo
+>>>>>>> cb8ab98 (changes in local repo)
+
+new line of code
+
+next
