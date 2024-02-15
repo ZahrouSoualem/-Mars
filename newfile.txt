@@ -1,4 +1,5 @@
 new file
 file new
 new file remote
+I am in newbranch 
 I am in main branch
